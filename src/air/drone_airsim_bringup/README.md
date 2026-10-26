@@ -166,3 +166,5 @@ pose:
 ## 整体任务进度
 
 见 [ROADMAP.md](ROADMAP.md)。当前处于阶段 1 的 PR2（深度/IMU + 10 Hz 状态），后续 PR3（键盘遥控）会在这个包上继续加。
+
+<!-- pr2 active -->
